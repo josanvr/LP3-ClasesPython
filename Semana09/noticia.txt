@@ -1,0 +1,7 @@
+# -*- coding: utf-8 -*-
+"""
+Created on Mon Jun 13 09:19:29 2022
+@author: Andres Vera
+"""
+
+La Selección Peruana se jugará su clasificación al Mundial de Qatar 2022 cuando el lunes enfrente a su similar de Australia en el repechaje que se disputará en Doha. La bicolor llega con la moral al tope para sellar el pase a su segunda cita mundialista en forma consecutiva.
